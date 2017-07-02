@@ -1,0 +1,8 @@
+{
+    "phpcs_path": "C:/Users/limki/AppData/Roaming/Composer/vendor/bin/vendor/bin/phpcs",
+    "phpcbf_path": "C:/Users/limki/AppData/Roaming/Composer/vendor/bin/vendor/bin/phpcbf",
+    // Gutter error icon color.
+    "error_scope": "comment.block",
+    // Gutter warning icon color.
+    "warning_scope": "function"
+}

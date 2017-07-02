@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[${1:Type your snippet here}]]></content>
+    <tabTrigger>xyz</tabTrigger>
+    <description>My Fancy Snippet</description>
+</snippet>

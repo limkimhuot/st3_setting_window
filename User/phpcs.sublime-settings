@@ -1,0 +1,6 @@
+{
+	"phpcbf_executable_path": "C:/Users/limki/AppData/Roaming/Composer/vendor/bin/phpcbf.bat",
+	"phpcs_executable_path":"C:/Users/limki/AppData/Roaming/Composer/vendor/bin/phpcs.bat",
+	"phpmd_executable_path":"C:/Users/limki/AppData/Roaming/Composer/vendor/bin/phpmd.bat",
+	"php_cs_fixer_executable_path":"C:/Users/limki/AppData/Roaming/Composer/vendor/bin/php-cs-fixer.bat"
+}
