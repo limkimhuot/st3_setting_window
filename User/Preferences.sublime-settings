@@ -48,7 +48,7 @@
 	"predawn_tabs_large": false,
 	"predawn_tabs_medium": false,
 	"predawn_tabs_small": false,
-	"tab_size": 2,
 	"theme": "Material-Theme-Darker.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"default_line_ending": "LF"
 }
