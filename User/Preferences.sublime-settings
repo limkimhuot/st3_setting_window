@@ -18,6 +18,7 @@
 		"*.psd"
 	],
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"default_line_ending": "LF",
 	"fade_fold_buttons": false,
 	"font_size": 13,
 	"ignored_packages":
@@ -49,6 +50,5 @@
 	"predawn_tabs_medium": false,
 	"predawn_tabs_small": false,
 	"theme": "Material-Theme-Darker.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"default_line_ending": "LF"
+	"translate_tabs_to_spaces": true
 }
