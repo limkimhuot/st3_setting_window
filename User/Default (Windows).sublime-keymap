@@ -44,5 +44,7 @@
   },
   {
     "keys": ["alt+e"], "command": "open_dir", "args": {"dir": "$packages"}
-  }
+  },
+  { "keys": ["alt+d"], "command": "goto_definition_scope" },
+  { "keys": ["alt+m"], "command": "docphp_show_definition" }
 ]
