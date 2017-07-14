@@ -41,5 +41,8 @@
   { "keys": ["f1"], "command": "goto_documentation" },
   {
     "keys": ["super+;"], "command": "run_macro_file", "args": {"file": "res://Packages/User/Macros/add-semicolon.sublime-macro"}
+  },
+  {
+    "keys": ["alt+e"], "command": "open_dir", "args": {"dir": "$packages"}
   }
 ]
